@@ -202,9 +202,8 @@ public class DerivativeCalculator {
 			derivative = derivative.replace("++", "+");	
 		}else if (derivative.contains("--")) {
 			derivative = derivative.replace("--", "+");
-		}else if (derivative.contains("+-")) { // || derivative.contains("-+")
+		}else if (derivative.contains("+-")) {
 			derivative = derivative.replace("+-", "-");
-			//derivative = derivative.replace("-+", "-");
 		}
 	}
 	
