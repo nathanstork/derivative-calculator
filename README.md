@@ -1,5 +1,5 @@
 # Derivative Calculator
-A simple Java program that calculates the derivative of a given function.
+An algorithm that calculates the derivative of a simple, given function.
 ## What I learned:
 * Everything about Lists and ArrayLists
 * How to get user input
