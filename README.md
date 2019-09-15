@@ -1,5 +1,5 @@
 # Derivative Calculator
-An algorithm that calculates the derivative of a simple, given function.
+An algorithm that calculates the derivative of a simple, given polynomial.
 ## What I learned:
 * Everything about Lists and ArrayLists
 * How to get user input
